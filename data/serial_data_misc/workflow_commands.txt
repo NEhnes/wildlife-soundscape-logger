@@ -1,0 +1,10 @@
+COMMANDS FOR 1050
+
+
+// pipe into new file
+pio device monitor | tee file.txt
+
+// clean and create cleaned file
+grep -v "StreamCopy\.h" file.txt > clean_file.txt
+
+
