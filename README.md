@@ -24,7 +24,7 @@ skills: ["I2S Protocol Implementation", "SPI File System Management", "Embedded 
 
 **Team:** 6 people (mechanical, electrical, firmware subteams). I served as **firmware lead** and **primary technical advisor**, guiding protocol selection, hardware integration, and system validation while supporting skill development across mechanical and electrical subteams.
 
-**Outcome:** **1st place** in our category (~20 teams). Delivered a **$77.50/unit audio logger** that outperforms commercial alternatives costing $125–200 and solves the professor's top constraint: **low maintenance** (single person deployment/retrieval, 4+ week unattended operation).
+**Outcome:** **1st place** in our category (~20 teams). Delivered a **$77.50/unit audio logger** that imitates commercial alternatives costing $125–200 and solves the professor's top constraint: **low maintenance** (single person deployment/retrieval, 4+ week unattended operation).
 
 The system records 5-minute stereo WAV files at 44.1 kHz to microSD card on a 60-minute duty cycle, enabling month-long field deployments without battery swaps or manual data retrieval.
 
@@ -35,9 +35,9 @@ The system records 5-minute stereo WAV files at 44.1 kHz to microSD card on a 60
 | Achievement | Impact |
 |---|---|
 | **1st place** in design category | Won against ~20 competing teams in ES1050 capstone competition |
-| **$77.50/unit cost** | 61% cheaper than AudioMoth ($125); 62% cheaper than Wildlife Acoustics ($200) |
+| **$77.50/unit cost** | 38% cheaper than AudioMoth ($125); 61% cheaper than Wildlife Acoustics ($200) |
 | **4+ week autonomy** | Solves client's #1 priority: low maintenance vs. 2-week manual retrieval on commercial systems |
-| **Real-world validation** | Biology professor actively using prototype for campus ecosystem monitoring |
+| **Real-world validation** | Biology professor in-person demo and feedback on our presented proof of concept |
 | **Technical leadership** | Firmware lead + technical advisor; enabled mechanical and electrical teams to solve integration challenges independently |
 | **Pragmatic engineering** | Delivered working system in 1-week hardware sprint through signal analysis, test signal generation, and iterative subsystem validation |
 
